@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Crimson Pro", ui-serif, Georgia, serif;
+  --font-sans: "Roboto", ui-sans-serif, system-ui, sans-serif;
+  --font-anaheim: "Anaheim", ui-sans-serif, system-ui, sans-serif;
+
+  --color-surface: #f6f3ea;
+  --color-surface-muted: #eee;
+  --color-surface-row: #ccc;
+  --color-border-muted: #aaa;
+  --color-heading: #222;
+  --color-accent: #f1b257;
+  --color-urgent: #c85746;
+  --color-moderate: #e8a84e;
+}
